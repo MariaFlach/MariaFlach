@@ -2,7 +2,7 @@
 
 ## 🙂 Sobre mim:
 
-* 📚 2° semestre de Bacharelado em Ciência da Computação - Instituto de Computação (IComp), Universidade Federal do Amazonas (UFAM)
+* 📚 3° semestre de Bacharelado em Ciência da Computação - Instituto de Computação (IComp), Universidade Federal do Amazonas (UFAM)
 * 🌱 Python
 * 🎖️ Medalhista da ONC, OBA, ORRQ
 * 🎖️ Menção Honrosa na ONNeQ, ORRQ, ONC, OBQJr
