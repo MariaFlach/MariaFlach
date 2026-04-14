@@ -13,7 +13,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = "40" height = "40"/>
 
 ## 📶 Estatísticas do GitHub:
-
-![MariaFlach Status](https://github-readme-stats.vercel.app/api?username=mariaflach&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaflach&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MariaFlach&theme=dracula)](https://git.io/streak-stats)
