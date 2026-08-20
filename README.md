@@ -2,11 +2,12 @@
 
 ## 🙂 Sobre mim:
 
-* 📚 3° semestre de Bacharelado em Ciência da Computação - Instituto de Computação (IComp), Universidade Federal do Amazonas (UFAM)
-* 🌱 Python
+* 📚 4° semestre de Bacharelado em Ciência da Computação - Instituto de Computação (IComp), Universidade Federal do Amazonas (UFAM)
+* 🌱 Python, C, C++
 * 🎖️ Medalhista da ONC, OBA, ORRQ
 * 🎖️ Menção Honrosa na ONNeQ, ORRQ, ONC, OBQJr
 * 🎖️ 1° Lugar da Categoria Sênior na TechNovation Summer School for Girls (realizada pelo GRACE-ICMC-USP)
+* 🎖️ Finalista da Maratona Feminina de Programação (MFP) 2026
 
 ## 🧐 Experiência:
 
