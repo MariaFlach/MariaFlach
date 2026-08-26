@@ -12,6 +12,9 @@
 ## 🧐 Experiência:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = "40" height = "40"/>
+<img src="https://githubusercontent.com" alt="C logo" width = "40" height = "40"/>
+![C++](https://shields.io)
+
 
 ## 📶 Estatísticas do GitHub:
 [![Maria Flach's GitHub stats](https://github-stats-extended.vercel.app/api?username=MariaFlach)](https://github.com/stats-organization/github-stats-extended)
